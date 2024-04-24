@@ -1,0 +1,24 @@
+{
+  "name": "school",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/school/src",
+  "projectType": "application",
+  "tags": [],
+  "targets": {
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "options": {
+        "buildTarget": "school:build"
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "school:build:development"
+        },
+        "production": {
+          "buildTarget": "school:build:production"
+        }
+      }
+    }
+  }
+}
