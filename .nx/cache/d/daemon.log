@@ -117,3 +117,707 @@ For more information about the usage of "namedInputs" see https://nx.dev/depreca
 [NX Daemon Server] - 2024-04-29T09:20:24.087Z - Done responding to the client handleRequestFileData
 [NX Daemon Server] - 2024-04-29T09:20:24.087Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
 [NX Daemon Server] - 2024-04-29T09:20:24.088Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:20:33.070Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:20:33.071Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:20:33.180Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:20:33.180Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:20:33.180Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:20:33.211Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.5816999673843384ms
+[NX Daemon Server] - 2024-04-29T09:20:34.085Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:20:34.085Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:20:34.085Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:20:34.086Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:20:34.087Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:20:34.088Z - Time taken for 'total for creating and serializing project graph' 1.117900013923645ms
+[NX Daemon Server] - 2024-04-29T09:20:34.088Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:20:34.088Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:20:34.092Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:20:34.092Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:20:34.092Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:20:34.093Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:20:43.087Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:20:43.087Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:20:43.195Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:20:43.195Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:20:43.195Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:20:43.231Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:20:43.233Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:20:43.245Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 1.029799997806549ms
+[NX Daemon Server] - 2024-04-29T09:20:43.390Z - [WATCHER]: 1 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:20:43.390Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:20:43.563Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:20:43.563Z - [REQUEST]: mongo-data-4.4/index-6-8879716936689323001.wt,mongo-data-4.4/journal/WiredTigerLog.0000000002,mongo-data-4.4/WiredTiger.turtle.set,mongo-data-4.4/WiredTiger.wt
+[NX Daemon Server] - 2024-04-29T09:20:43.563Z - [REQUEST]: 
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:20:43.598Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:20:43.600Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:20:43.601Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.8761000037193298ms
+[NX Daemon Server] - 2024-04-29T09:20:43.675Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:20:43.676Z - [WATCHER]: mongo-data-4.4/journal/WiredTigerLog.0000000002 was modified
+[NX Daemon Server] - 2024-04-29T09:20:43.786Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:20:43.786Z - [REQUEST]: mongo-data-4.4/WiredTiger.turtle,mongo-data-4.4/journal/WiredTigerLog.0000000002
+[NX Daemon Server] - 2024-04-29T09:20:43.786Z - [REQUEST]: mongo-data-4.4/WiredTiger.turtle.set
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:20:43.816Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:20:43.817Z - [WATCHER]: mongo-data-4.4/journal/WiredTigerLog.0000000002 was modified
+[NX Daemon Server] - 2024-04-29T09:20:43.817Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.593500018119812ms
+[NX Daemon Server] - 2024-04-29T09:20:44.204Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:20:44.204Z - [REQUEST]: mongo-data-4.4/journal/WiredTigerLog.0000000002
+[NX Daemon Server] - 2024-04-29T09:20:44.204Z - [REQUEST]: 
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:20:44.264Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.8413999676704407ms
+[NX Daemon Server] - 2024-04-29T09:20:44.746Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:20:44.746Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:20:44.746Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:20:44.747Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:20:44.748Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:20:44.749Z - Time taken for 'total for creating and serializing project graph' 0.9557999968528748ms
+[NX Daemon Server] - 2024-04-29T09:20:44.749Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:20:44.749Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:20:44.752Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:20:44.752Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:20:44.752Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:20:44.753Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:20:53.061Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:20:53.062Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:20:53.171Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:20:53.171Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:20:53.171Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:20:53.202Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.7379999756813049ms
+[NX Daemon Server] - 2024-04-29T09:20:54.076Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:20:54.076Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:20:54.076Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:20:54.078Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:20:54.078Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:20:54.080Z - Time taken for 'total for creating and serializing project graph' 0.9786999821662903ms
+[NX Daemon Server] - 2024-04-29T09:20:54.080Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:20:54.080Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-04-29T09:20:54.084Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:20:54.084Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:20:54.084Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:20:54.085Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:21:03.070Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:21:03.073Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:21:03.182Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:21:03.182Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:21:03.182Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:21:03.237Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.9640000462532043ms
+[NX Daemon Server] - 2024-04-29T09:21:04.088Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:21:04.088Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:21:04.089Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:21:04.090Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:21:04.091Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:21:04.094Z - Time taken for 'total for creating and serializing project graph' 1.5647000074386597ms
+[NX Daemon Server] - 2024-04-29T09:21:04.094Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:21:04.094Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 3.
+[NX Daemon Server] - 2024-04-29T09:21:04.101Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:21:04.101Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:21:04.101Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:21:04.103Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:21:13.065Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:21:13.066Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:21:13.177Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:21:13.177Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:21:13.177Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:21:13.204Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.8147000074386597ms
+[NX Daemon Server] - 2024-04-29T09:21:14.081Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:21:14.081Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:21:14.081Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:21:14.082Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:21:14.083Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:21:14.084Z - Time taken for 'total for creating and serializing project graph' 1.0264999866485596ms
+[NX Daemon Server] - 2024-04-29T09:21:14.084Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:21:14.084Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:21:14.088Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:21:14.088Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:21:14.088Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:21:14.089Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:21:23.066Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:21:23.069Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:21:23.178Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:21:23.178Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:21:23.178Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:21:23.231Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.5600000023841858ms
+[NX Daemon Server] - 2024-04-29T09:21:24.080Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:21:24.080Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:21:24.080Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:21:24.082Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:21:24.083Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:21:24.084Z - Time taken for 'total for creating and serializing project graph' 1.6145000457763672ms
+[NX Daemon Server] - 2024-04-29T09:21:24.085Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:21:24.085Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-04-29T09:21:24.089Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:21:24.089Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:21:24.089Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:21:24.090Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:21:33.095Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:21:33.099Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:21:33.204Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:21:33.204Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:21:33.204Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:21:33.249Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.6475000381469727ms
+[NX Daemon Server] - 2024-04-29T09:21:34.106Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:21:34.107Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:21:34.107Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:21:34.112Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:21:34.116Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:21:34.118Z - Time taken for 'total for creating and serializing project graph' 4.271200001239777ms
+[NX Daemon Server] - 2024-04-29T09:21:34.118Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:21:34.118Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 5. Response time: 2.
+[NX Daemon Server] - 2024-04-29T09:21:34.124Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:21:34.125Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:21:34.126Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-04-29T09:21:34.127Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:21:43.073Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:21:43.074Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:21:43.182Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:21:43.182Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:21:43.182Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:21:43.217Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.5676999688148499ms
+[NX Daemon Server] - 2024-04-29T09:21:43.829Z - [WATCHER]: 1 file(s) created or restored, 2 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:21:43.829Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:21:43.889Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:21:43.891Z - [WATCHER]: mongo-data-4.4/journal/WiredTigerLog.0000000002 was modified
+[NX Daemon Server] - 2024-04-29T09:21:44.073Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:21:44.073Z - [REQUEST]: mongo-data-4.4/WiredTiger.turtle,mongo-data-4.4/WiredTiger.wt,mongo-data-4.4/index-6-8879716936689323001.wt,mongo-data-4.4/journal/WiredTigerLog.0000000002
+[NX Daemon Server] - 2024-04-29T09:21:44.073Z - [REQUEST]: mongo-data-4.4/WiredTiger.turtle.set
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:21:44.134Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.6202999949455261ms
+[NX Daemon Server] - 2024-04-29T09:21:44.895Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:21:44.895Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:21:44.895Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:21:44.896Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:21:44.897Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:21:44.898Z - Time taken for 'total for creating and serializing project graph' 0.8809000253677368ms
+[NX Daemon Server] - 2024-04-29T09:21:44.898Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:21:44.899Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-04-29T09:21:44.901Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:21:44.901Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:21:44.901Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:21:44.902Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:21:53.064Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:21:53.066Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:21:53.176Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:21:53.176Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:21:53.176Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:21:53.213Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.9272000193595886ms
+[NX Daemon Server] - 2024-04-29T09:21:54.082Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:21:54.082Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:21:54.082Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:21:54.083Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:21:54.084Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:21:54.085Z - Time taken for 'total for creating and serializing project graph' 1.036300003528595ms
+[NX Daemon Server] - 2024-04-29T09:21:54.085Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:21:54.085Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:21:54.088Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:21:54.088Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:21:54.089Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:21:54.089Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:03.089Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:22:03.090Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:22:03.198Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:22:03.198Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:22:03.198Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:22:03.253Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.8213000297546387ms
+[NX Daemon Server] - 2024-04-29T09:22:04.114Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:04.114Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:04.114Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:04.136Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:22:04.137Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:22:04.140Z - Time taken for 'total for creating and serializing project graph' 1.720699965953827ms
+[NX Daemon Server] - 2024-04-29T09:22:04.140Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:22:04.140Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 3.
+[NX Daemon Server] - 2024-04-29T09:22:04.148Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:04.148Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:04.148Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:22:04.150Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:12.073Z - [WATCHER]: mongo-data-4.4/diagnostic.data/metrics.interim was deleted
+[NX Daemon Server] - 2024-04-29T09:22:12.073Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:22:12.181Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:22:12.181Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:22:12.181Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:22:12.213Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.8476999998092651ms
+[NX Daemon Server] - 2024-04-29T09:22:13.082Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:13.082Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:13.082Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:13.083Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:22:13.084Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:22:13.085Z - Time taken for 'total for creating and serializing project graph' 0.9139999747276306ms
+[NX Daemon Server] - 2024-04-29T09:22:13.085Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:22:13.086Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-04-29T09:22:13.089Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:13.089Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:13.089Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:22:13.089Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:23.067Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:22:23.068Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:22:23.175Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:22:23.175Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:22:23.175Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:22:23.212Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.5024999976158142ms
+[NX Daemon Server] - 2024-04-29T09:22:24.087Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:24.087Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:24.087Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:24.088Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:22:24.089Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:22:24.090Z - Time taken for 'total for creating and serializing project graph' 1.0231000185012817ms
+[NX Daemon Server] - 2024-04-29T09:22:24.090Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:22:24.090Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:22:24.098Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:24.099Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:24.099Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:22:24.099Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:26.535Z - [WATCHER]: apps/account/src/app/user/user.command.ts was deleted
+[NX Daemon Server] - 2024-04-29T09:22:26.535Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:22:26.685Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:22:26.686Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:22:26.686Z - [REQUEST]: apps/account/src/app/user/user.command.ts
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:22:26.755Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.9794999957084656ms
+[NX Daemon Server] - 2024-04-29T09:22:27.550Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:27.550Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:27.550Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:27.551Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:22:27.553Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:22:27.553Z - Time taken for 'total for creating and serializing project graph' 1.185699999332428ms
+[NX Daemon Server] - 2024-04-29T09:22:27.554Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:22:27.554Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:22:27.557Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:27.558Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:27.558Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:22:27.558Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:33.064Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:22:33.064Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:22:33.176Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:22:33.176Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:22:33.176Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:22:33.210Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 1.0967999696731567ms
+[NX Daemon Server] - 2024-04-29T09:22:34.078Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:34.079Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:34.079Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:34.080Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:22:34.081Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:22:34.082Z - Time taken for 'total for creating and serializing project graph' 0.9345000386238098ms
+[NX Daemon Server] - 2024-04-29T09:22:34.082Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:22:34.082Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:22:34.084Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:34.085Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:34.085Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:22:34.085Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:36.634Z - [WATCHER]: apps/account/src/app/user/user.query.ts was deleted
+[NX Daemon Server] - 2024-04-29T09:22:36.634Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:22:36.744Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:22:36.745Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:22:36.745Z - [REQUEST]: apps/account/src/app/user/user.query.ts
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:22:36.798Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.9812999963760376ms
+[NX Daemon Server] - 2024-04-29T09:22:37.704Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:37.705Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:37.705Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:37.706Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:22:37.707Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:22:37.708Z - Time taken for 'total for creating and serializing project graph' 1.007099986076355ms
+[NX Daemon Server] - 2024-04-29T09:22:37.708Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:22:37.708Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:22:37.716Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:37.717Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:37.717Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:22:37.718Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:43.069Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:22:43.069Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:22:43.179Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:22:43.179Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:22:43.179Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:22:43.210Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 1.2853000164031982ms
+[NX Daemon Server] - 2024-04-29T09:22:43.892Z - [WATCHER]: 1 file(s) created or restored, 3 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:22:43.892Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:22:44.091Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:22:44.091Z - [REQUEST]: mongo-data-4.4/WiredTiger.turtle,mongo-data-4.4/WiredTiger.wt,mongo-data-4.4/journal/WiredTigerLog.0000000002,mongo-data-4.4/index-6-8879716936689323001.wt
+[NX Daemon Server] - 2024-04-29T09:22:44.091Z - [REQUEST]: mongo-data-4.4/WiredTiger.turtle.set
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:22:44.125Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 1.1445000171661377ms
+[NX Daemon Server] - 2024-04-29T09:22:44.900Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:44.900Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:44.900Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:44.901Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:22:44.902Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:22:44.903Z - Time taken for 'total for creating and serializing project graph' 0.9235000014305115ms
+[NX Daemon Server] - 2024-04-29T09:22:44.903Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:22:44.903Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:22:44.906Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:44.906Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:44.906Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:22:44.907Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:53.059Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:22:53.063Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:22:53.168Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:22:53.168Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:22:53.168Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:22:53.199Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.5130999684333801ms
+[NX Daemon Server] - 2024-04-29T09:22:54.081Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:54.082Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:22:54.082Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:22:54.082Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:22:54.083Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:22:54.085Z - Time taken for 'total for creating and serializing project graph' 0.8624999523162842ms
+[NX Daemon Server] - 2024-04-29T09:22:54.085Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:22:54.085Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-04-29T09:22:54.088Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:54.088Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:22:54.088Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:22:54.088Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:23:03.069Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:23:03.069Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:23:03.182Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:23:03.182Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:23:03.182Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:23:03.218Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.7138000130653381ms
+[NX Daemon Server] - 2024-04-29T09:23:04.080Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:04.080Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:23:04.080Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:04.081Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:23:04.082Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:23:04.083Z - Time taken for 'total for creating and serializing project graph' 1.025600016117096ms
+[NX Daemon Server] - 2024-04-29T09:23:04.083Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:23:04.083Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:23:04.089Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:04.089Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:04.089Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:23:04.090Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:23:13.056Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:23:13.060Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:23:13.168Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:23:13.168Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:23:13.168Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:23:13.201Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.5426000356674194ms
+[NX Daemon Server] - 2024-04-29T09:23:14.067Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:14.067Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:23:14.067Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:14.068Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:23:14.069Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:23:14.072Z - Time taken for 'total for creating and serializing project graph' 1.029699981212616ms
+[NX Daemon Server] - 2024-04-29T09:23:14.072Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:23:14.073Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 4.
+[NX Daemon Server] - 2024-04-29T09:23:14.080Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:14.080Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:14.080Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:23:14.080Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:23:23.060Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:23:23.062Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:23:23.170Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:23:23.170Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:23:23.170Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:23:23.201Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.5412999987602234ms
+[NX Daemon Server] - 2024-04-29T09:23:24.079Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:24.079Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:23:24.079Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:24.080Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:23:24.081Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:23:24.082Z - Time taken for 'total for creating and serializing project graph' 1.047100007534027ms
+[NX Daemon Server] - 2024-04-29T09:23:24.082Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:23:24.082Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:23:24.085Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:24.085Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:24.085Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:23:24.085Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:23:25.458Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:23:25.460Z - [WATCHER]: mongo-data-4.4/diagnostic.data/metrics.2024-04-25T13-46-17Z-00000 was modified
+[NX Daemon Server] - 2024-04-29T09:23:25.705Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:23:25.705Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.2024-04-25T13-46-17Z-00000
+[NX Daemon Server] - 2024-04-29T09:23:25.705Z - [REQUEST]: 
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:23:25.750Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.5401999950408936ms
+[NX Daemon Server] - 2024-04-29T09:23:26.484Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:26.485Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:23:26.485Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:26.486Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:23:26.487Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:23:26.488Z - Time taken for 'total for creating and serializing project graph' 1.0163000226020813ms
+[NX Daemon Server] - 2024-04-29T09:23:26.489Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:23:26.489Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-04-29T09:23:26.495Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:26.495Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:26.495Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:23:26.496Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:23:33.067Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:23:33.067Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:23:33.177Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:23:33.177Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:23:33.178Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:23:33.208Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 1.4466000199317932ms
+[NX Daemon Server] - 2024-04-29T09:23:34.086Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:34.087Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:23:34.087Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:34.089Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:23:34.090Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:23:34.093Z - Time taken for 'total for creating and serializing project graph' 1.6306999921798706ms
+[NX Daemon Server] - 2024-04-29T09:23:34.093Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:23:34.093Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 3.
+[NX Daemon Server] - 2024-04-29T09:23:34.096Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:34.097Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:34.097Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:23:34.097Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:23:43.059Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:23:43.061Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:23:43.169Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:23:43.169Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:23:43.169Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:23:43.209Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.5952000021934509ms
+[NX Daemon Server] - 2024-04-29T09:23:43.947Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:23:43.960Z - [WATCHER]: mongo-data-4.4/index-6-8879716936689323001.wt was modified
+[NX Daemon Server] - 2024-04-29T09:23:44.010Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:23:44.012Z - [WATCHER]: 1 file(s) created or restored, 2 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:23:44.478Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:23:44.478Z - [REQUEST]: mongo-data-4.4/index-6-8879716936689323001.wt,mongo-data-4.4/WiredTiger.turtle,mongo-data-4.4/journal/WiredTigerLog.0000000002,mongo-data-4.4/WiredTiger.wt
+[NX Daemon Server] - 2024-04-29T09:23:44.478Z - [REQUEST]: mongo-data-4.4/WiredTiger.turtle.set
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:23:44.538Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.6988000273704529ms
+[NX Daemon Server] - 2024-04-29T09:23:45.022Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:45.022Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:23:45.022Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:45.023Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:23:45.027Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:23:45.031Z - Time taken for 'total for creating and serializing project graph' 4.17110002040863ms
+[NX Daemon Server] - 2024-04-29T09:23:45.031Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:23:45.031Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 4. Response time: 4.
+[NX Daemon Server] - 2024-04-29T09:23:45.035Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:45.036Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:45.036Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:23:45.036Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:23:53.061Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:23:53.062Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:23:53.170Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:23:53.170Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:23:53.170Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:23:53.200Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 0.5752000212669373ms
+[NX Daemon Server] - 2024-04-29T09:23:54.079Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:54.079Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T09:23:54.079Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:23:54.080Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:23:54.081Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:23:54.082Z - Time taken for 'total for creating and serializing project graph' 0.9944000244140625ms
+[NX Daemon Server] - 2024-04-29T09:23:54.083Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:23:54.083Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-04-29T09:23:54.086Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:54.086Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:23:54.086Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:23:54.086Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:24:03.065Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:24:03.067Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:24:03.177Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:24:03.178Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim
+[NX Daemon Server] - 2024-04-29T09:24:03.178Z - [REQUEST]: mongo-data-4.4/diagnostic.data/metrics.interim.temp
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:24:03.213Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 2.2056999802589417ms
+[NX Daemon Server] - 2024-04-29T09:24:04.080Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:24:04.080Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:24:04.080Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:24:04.081Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:24:04.082Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:24:04.083Z - Time taken for 'total for creating and serializing project graph' 1.0726999640464783ms
+[NX Daemon Server] - 2024-04-29T09:24:04.084Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:24:04.084Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-04-29T09:24:04.088Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:24:04.088Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:24:04.088Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:24:04.088Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:24:07.394Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:24:07.396Z - [WATCHER]: README.md was modified
+[NX Daemon Server] - 2024-04-29T09:24:07.504Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:24:07.504Z - [REQUEST]: README.md
+[NX Daemon Server] - 2024-04-29T09:24:07.504Z - [REQUEST]: 
+
+ NX   Using `implicitDependencies` for global implicit dependencies configuration is no longer supported.
+
+Use "namedInputs" instead. You can run "nx repair" to automatically migrate your configuration.
+For more information about the usage of "namedInputs" see https://nx.dev/deprecated/global-implicit-dependencies#global-implicit-dependencies
+
+[NX Daemon Server] - 2024-04-29T09:24:07.570Z - Time taken for 'Load Nx Plugin: c:\Users\BigBlueDragon\Documents\Incode-group\school\node_modules\nx\src\plugins\project-json\build-nodes\package-json-next-to-project-json' 1.238099992275238ms
+[NX Daemon Server] - 2024-04-29T09:24:08.408Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:24:08.409Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T09:24:08.409Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:24:08.411Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:24:08.412Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:24:08.413Z - Time taken for 'total for creating and serializing project graph' 0.9878000020980835ms
+[NX Daemon Server] - 2024-04-29T09:24:08.413Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:24:08.413Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:24:08.416Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:24:08.416Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-29T09:24:08.416Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:24:08.416Z - Closed a connection. Number of open connections: 0
