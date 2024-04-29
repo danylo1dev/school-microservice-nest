@@ -57,132 +57,24 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "apps/.gitkeep",
-        "hash": "3244421341483603138"
+        "file": "docker-compose.yml",
+        "hash": "8201017706979076256"
       },
       {
         "file": ".gitignore",
         "hash": "15470181319731968177"
       },
       {
-        "file": "mongo-data-4.4/diagnostic.data/metrics.interim",
-        "hash": "9850900750181479109"
-      },
-      {
-        "file": "libs/.gitkeep",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": "mongo-data-4.4/collection-7-8879716936689323001.wt",
-        "hash": "11386277178667405466"
-      },
-      {
-        "file": "mongo-data-4.4/WiredTiger.wt",
-        "hash": "6699593950398129721"
-      },
-      {
-        "file": "README.md",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": "mongo-data-4.4/index-5-8879716936689323001.wt",
-        "hash": "16097762177483058796"
-      },
-      {
-        "file": "mongo-data-4.4/WiredTiger.turtle",
-        "hash": "3190150000142979482"
-      },
-      {
-        "file": "workspace.json",
-        "hash": "15316743350587514061"
-      },
-      {
-        "file": "jest.config.js",
-        "hash": "8280827210074712746"
-      },
-      {
-        "file": "mongo-data-4.4/collection-0-8879716936689323001.wt",
-        "hash": "3571403419355508225"
-      },
-      {
         "file": "mongo-data-4.4/index-3-8879716936689323001.wt",
         "hash": "17772502845289551071"
       },
       {
-        "file": "package-lock.json",
-        "hash": "10847754384302222244"
+        "file": "mongo-data-4.4/mongod.lock",
+        "hash": "3383225458521326309"
       },
       {
         "file": "mongo-data-4.4/journal/WiredTigerPreplog.0000000001",
         "hash": "9705535327776266990"
-      },
-      {
-        "file": "mongo-data-4.4/_mdb_catalog.wt",
-        "hash": "13717942797637146372"
-      },
-      {
-        "file": "mongo-data-4.4/journal/WiredTigerPreplog.0000000002",
-        "hash": "9705535327776266990"
-      },
-      {
-        "file": "mongo-data-4.4/collection-2-8879716936689323001.wt",
-        "hash": "16504316253314065980"
-      },
-      {
-        "file": "mongo-data-4.4/diagnostic.data/metrics.2024-04-25T13-45-55Z-00000",
-        "hash": "15193432424130236887"
-      },
-      {
-        "file": "tsconfig.base.json",
-        "hash": "9751442536133714244"
-      },
-      {
-        "file": ".prettierrc",
-        "hash": "16267754514737964994"
-      },
-      {
-        "file": "mongo-data-4.4/journal/WiredTigerLog.0000000002",
-        "hash": "9065501233987210323"
-      },
-      {
-        "file": "mongo-data-4.4/index-9-8879716936689323001.wt",
-        "hash": "6335285169217787959"
-      },
-      {
-        "file": "tools/tsconfig.tools.json",
-        "hash": "16088922570277978783"
-      },
-      {
-        "file": "mongo-data-4.4/index-8-8879716936689323001.wt",
-        "hash": "655003858190780484"
-      },
-      {
-        "file": "tools/generators/.gitkeep",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": "mongo-data-4.4/storage.bson",
-        "hash": "1679351129780017522"
-      },
-      {
-        "file": "jest.preset.js",
-        "hash": "5137147997102054031"
-      },
-      {
-        "file": "mongo-data-4.4/index-1-8879716936689323001.wt",
-        "hash": "17585430971023502847"
-      },
-      {
-        "file": ".prettierignore",
-        "hash": "17733650430415207254"
-      },
-      {
-        "file": ".eslintrc.json",
-        "hash": "15388041757782744192"
-      },
-      {
-        "file": "mongo-data-4.4/diagnostic.data/metrics.2024-04-25T13-46-17Z-00000",
-        "hash": "17607357939086025056"
       },
       {
         "file": ".editorconfig",
@@ -190,141 +82,440 @@
       },
       {
         "file": "mongo-data-4.4/index-6-8879716936689323001.wt",
-        "hash": "11379457385098604467"
+        "hash": "1633147382818667456"
       },
       {
-        "file": "mongo-data-4.4/collection-0--2294528489142569249.wt",
-        "hash": "8796983299916770995"
-      },
-      {
-        "file": "mongo-data-4.4/collection-4-8879716936689323001.wt",
-        "hash": "14768124975984871855"
-      },
-      {
-        "file": "docker-compose.yml",
-        "hash": "8201017706979076256"
-      },
-      {
-        "file": ".vscode/extensions.json",
-        "hash": "4934098906304722861"
-      },
-      {
-        "file": "mongo-data-4.4/index-1--2294528489142569249.wt",
-        "hash": "8796983299916770995"
-      },
-      {
-        "file": "mongo-data-4.4/sizeStorer.wt",
-        "hash": "5010470229734108235"
-      },
-      {
-        "file": "nx.json",
-        "hash": "14626043580681191576"
-      },
-      {
-        "file": "mongo-data-4.4/mongod.lock",
-        "hash": "3383225458521326309"
-      },
-      {
-        "file": "mongo-data-4.4/WiredTigerHS.wt",
-        "hash": "8796983299916770995"
-      },
-      {
-        "file": "package.json",
-        "hash": "18221158751223580929"
-      },
-      {
-        "file": "mongo-data-4.4/WiredTiger",
-        "hash": "6113944253492728789"
-      },
-      {
-        "file": ".eslintignore",
-        "hash": "7663861978715868291"
+        "file": "mongo-data-4.4/diagnostic.data/metrics.2024-04-25T13-46-17Z-00000",
+        "hash": "10769055575741020087"
       },
       {
         "file": "jest.config.ts",
         "hash": "3494843969422251966"
       },
       {
+        "file": "mongo-data-4.4/index-8-8879716936689323001.wt",
+        "hash": "655003858190780484"
+      },
+      {
+        "file": "mongo-data-4.4/index-5-8879716936689323001.wt",
+        "hash": "16097762177483058796"
+      },
+      {
+        "file": "mongo-data-4.4/collection-4-8879716936689323001.wt",
+        "hash": "14768124975984871855"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": "mongo-data-4.4/WiredTiger.turtle",
+        "hash": "17492215005823894164"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "9751442536133714244"
+      },
+      {
         "file": "mongo-data-4.4/WiredTiger.lock",
         "hash": "7045004002381174161"
+      },
+      {
+        "file": "nx.json",
+        "hash": "14626043580681191576"
+      },
+      {
+        "file": "mongo-data-4.4/storage.bson",
+        "hash": "1679351129780017522"
+      },
+      {
+        "file": "mongo-data-4.4/WiredTigerHS.wt",
+        "hash": "8796983299916770995"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "10847754384302222244"
+      },
+      {
+        "file": "mongo-data-4.4/collection-7-8879716936689323001.wt",
+        "hash": "11386277178667405466"
+      },
+      {
+        "file": "tools/tsconfig.tools.json",
+        "hash": "16088922570277978783"
+      },
+      {
+        "file": "README.md",
+        "hash": "8048908178485046333"
+      },
+      {
+        "file": "jest.preset.js",
+        "hash": "5137147997102054031"
+      },
+      {
+        "file": "workspace.json",
+        "hash": "15316743350587514061"
+      },
+      {
+        "file": "mongo-data-4.4/index-9-8879716936689323001.wt",
+        "hash": "6335285169217787959"
+      },
+      {
+        "file": "mongo-data-4.4/diagnostic.data/metrics.interim",
+        "hash": "11774199047953847661"
+      },
+      {
+        "file": "mongo-data-4.4/index-1-8879716936689323001.wt",
+        "hash": "17585430971023502847"
+      },
+      {
+        "file": ".eslintignore",
+        "hash": "7663861978715868291"
+      },
+      {
+        "file": "mongo-data-4.4/diagnostic.data/metrics.2024-04-25T13-45-55Z-00000",
+        "hash": "15193432424130236887"
+      },
+      {
+        "file": "mongo-data-4.4/_mdb_catalog.wt",
+        "hash": "13717942797637146372"
+      },
+      {
+        "file": "package.json",
+        "hash": "18221158751223580929"
+      },
+      {
+        "file": "jest.config.js",
+        "hash": "8280827210074712746"
+      },
+      {
+        "file": "mongo-data-4.4/journal/WiredTigerLog.0000000002",
+        "hash": "69806508252905103"
+      },
+      {
+        "file": "mongo-data-4.4/WiredTiger",
+        "hash": "6113944253492728789"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "17733650430415207254"
+      },
+      {
+        "file": "tools/generators/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "4934098906304722861"
+      },
+      {
+        "file": "mongo-data-4.4/sizeStorer.wt",
+        "hash": "5010470229734108235"
+      },
+      {
+        "file": "mongo-data-4.4/WiredTiger.wt",
+        "hash": "10159988414814458998"
+      },
+      {
+        "file": "mongo-data-4.4/collection-0-8879716936689323001.wt",
+        "hash": "3571403419355508225"
+      },
+      {
+        "file": "apps/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "mongo-data-4.4/journal/WiredTigerPreplog.0000000002",
+        "hash": "9705535327776266990"
+      },
+      {
+        "file": "mongo-data-4.4/collection-0--2294528489142569249.wt",
+        "hash": "8796983299916770995"
+      },
+      {
+        "file": ".eslintrc.json",
+        "hash": "15388041757782744192"
+      },
+      {
+        "file": "mongo-data-4.4/collection-2-8879716936689323001.wt",
+        "hash": "16504316253314065980"
+      },
+      {
+        "file": "mongo-data-4.4/index-1--2294528489142569249.wt",
+        "hash": "8796983299916770995"
+      },
+      {
+        "file": "libs/.gitkeep",
+        "hash": "3244421341483603138"
       }
     ],
     "projectFileMap": {
-      "school": [
+      "contracts": [
         {
-          "file": "apps/school/.eslintrc.json",
+          "file": "libs/contracts/.eslintrc.json",
+          "hash": "7627749229115838397"
+        },
+        {
+          "file": "libs/contracts/README.md",
+          "hash": "16642029964070883586"
+        },
+        {
+          "file": "libs/contracts/jest.config.js",
+          "hash": "17179070940407332397"
+        },
+        {
+          "file": "libs/contracts/project.json",
+          "hash": "125004663171732689"
+        },
+        {
+          "file": "libs/contracts/src/index.ts",
+          "hash": "1857298066431825392"
+        },
+        {
+          "file": "libs/contracts/src/lib/account/account.buy-course.ts",
+          "hash": "18419819847555204578",
+          "deps": [
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "libs/contracts/src/lib/account/account.change-profile.ts",
+          "hash": "15803481604534168063",
+          "deps": [
+            "interfaces",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "libs/contracts/src/lib/account/account.changed-course.ts",
+          "hash": "2615895400555222099",
+          "deps": [
+            "interfaces",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "libs/contracts/src/lib/account/account.check-payment.ts",
+          "hash": "7639137433259134668",
+          "deps": [
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "libs/contracts/src/lib/account/account.login.ts",
+          "hash": "1373025711827277229",
+          "deps": [
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "libs/contracts/src/lib/account/account.register.ts",
+          "hash": "15070759877660179023",
+          "deps": [
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "libs/contracts/src/lib/account/account.user-courses.ts",
+          "hash": "9165068370222910248",
+          "deps": [
+            "interfaces",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "libs/contracts/src/lib/account/account.user-info.ts",
+          "hash": "11996174033549399402",
+          "deps": [
+            "interfaces",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "libs/contracts/src/lib/course/course.get-course.ts",
+          "hash": "14576637065549834113",
+          "deps": [
+            "interfaces",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "libs/contracts/src/lib/payment/payment.check.ts",
+          "hash": "16101139364641519612",
+          "deps": [
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "libs/contracts/src/lib/payment/payment.generate-link.ts",
+          "hash": "3842706260288535252",
+          "deps": [
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "libs/contracts/tsconfig.json",
+          "hash": "2840670722752396445"
+        },
+        {
+          "file": "libs/contracts/tsconfig.lib.json",
+          "hash": "4317883841449473599"
+        },
+        {
+          "file": "libs/contracts/tsconfig.spec.json",
+          "hash": "9890306705623532975"
+        }
+      ],
+      "api": [
+        {
+          "file": "apps/api/.eslintrc.json",
           "hash": "13800677001662881425"
         },
         {
-          "file": "apps/school/jest.config.ts",
-          "hash": "5936075037660829252"
+          "file": "apps/api/jest.config.js",
+          "hash": "13170075833861854950"
         },
         {
-          "file": "apps/school/project.json",
-          "hash": "16429376047665495179"
+          "file": "apps/api/jest.config.ts",
+          "hash": "9483968714649439783"
         },
         {
-          "file": "apps/school/src/app/app.controller.spec.ts",
-          "hash": "9499997688052526633",
-          "deps": [
-            "npm:@nestjs/testing"
-          ]
+          "file": "apps/api/project.json",
+          "hash": "9607722253842258280"
         },
         {
-          "file": "apps/school/src/app/app.controller.ts",
-          "hash": "9005150069945785676",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/school/src/app/app.module.ts",
-          "hash": "3163250445227373966",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/school/src/app/app.service.spec.ts",
-          "hash": "8587461140686713758",
-          "deps": [
-            "npm:@nestjs/testing"
-          ]
-        },
-        {
-          "file": "apps/school/src/app/app.service.ts",
-          "hash": "9967902337593410053",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/school/src/assets/.gitkeep",
+          "file": "apps/api/src/app/.gitkeep",
           "hash": "3244421341483603138"
         },
         {
-          "file": "apps/school/src/main.ts",
-          "hash": "11205222914964382693",
+          "file": "apps/api/src/app/app.module.ts",
+          "hash": "3013154188034291349",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/config",
+            "npm:@nestjs/jwt",
+            "npm:@nestjs/passport",
+            "npm:@nestjs/schedule",
+            "npm:nestjs-rmq"
+          ]
+        },
+        {
+          "file": "apps/api/src/app/configs/jwt.config.ts",
+          "hash": "10162084427603343712",
+          "deps": [
+            "npm:@nestjs/config",
+            "npm:@nestjs/jwt"
+          ]
+        },
+        {
+          "file": "apps/api/src/app/configs/rmq.config.ts",
+          "hash": "16843795282027826086",
+          "deps": [
+            "npm:@nestjs/config",
+            "npm:nestjs-rmq"
+          ]
+        },
+        {
+          "file": "apps/api/src/app/controllers/auth.controller.ts",
+          "hash": "16371537826522870599",
+          "deps": [
+            "npm:@nestjs/common",
+            "contracts",
+            "npm:nestjs-rmq"
+          ]
+        },
+        {
+          "file": "apps/api/src/app/controllers/user.controller.ts",
+          "hash": "12906124569478991408",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/schedule"
+          ]
+        },
+        {
+          "file": "apps/api/src/app/dtos/login.dto.ts",
+          "hash": "6418013132045074708",
+          "deps": [
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/api/src/app/dtos/register.dto.ts",
+          "hash": "2419776801036586877",
+          "deps": [
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/api/src/app/guards/jwt.guard.ts",
+          "hash": "17091976237514033842",
+          "deps": [
+            "npm:@nestjs/passport"
+          ]
+        },
+        {
+          "file": "apps/api/src/app/guards/user.decorator.ts",
+          "hash": "451517555991797650",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/api/src/app/strategies/jwt.straragy.ts",
+          "hash": "18409334040977716927",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/config",
+            "npm:@nestjs/passport",
+            "interfaces",
+            "npm:passport-jwt"
+          ]
+        },
+        {
+          "file": "apps/api/src/app/strategies/jwt.strategy.ts",
+          "hash": "9937761947575908385",
+          "deps": [
+            "npm:@nestjs/config",
+            "npm:@nestjs/passport",
+            "npm:passport-jwt",
+            "npm:@school/interfaces"
+          ]
+        },
+        {
+          "file": "apps/api/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/api/src/environments/environment.prod.ts",
+          "hash": "10220522844224226756"
+        },
+        {
+          "file": "apps/api/src/environments/environment.ts",
+          "hash": "1135292433917692033"
+        },
+        {
+          "file": "apps/api/src/main.ts",
+          "hash": "12670976465931673311",
           "deps": [
             "npm:@nestjs/common",
             "npm:@nestjs/core"
           ]
         },
         {
-          "file": "apps/school/tsconfig.app.json",
-          "hash": "3171572500325445971"
+          "file": "apps/api/tsconfig.app.json",
+          "hash": "5230856553400414191"
         },
         {
-          "file": "apps/school/tsconfig.json",
-          "hash": "3490524966360018312"
+          "file": "apps/api/tsconfig.json",
+          "hash": "9214820933160915425"
         },
         {
-          "file": "apps/school/tsconfig.spec.json",
-          "hash": "11550347367511341917"
+          "file": "apps/api/tsconfig.spec.json",
+          "hash": "9890306705623532975"
         },
         {
-          "file": "apps/school/webpack.config.js",
-          "hash": "2841108536440257577",
+          "file": "apps/api/webpack.config.js",
+          "hash": "10830236645376184640",
           "deps": [
             "npm:@nx/webpack",
             "npm:path"
@@ -372,100 +563,6 @@
         },
         {
           "file": "apps/api-e2e/tsconfig.spec.json",
-          "hash": "14954872453723519891"
-        }
-      ],
-      "interfaces": [
-        {
-          "file": "libs/interfaces/.eslintrc.json",
-          "hash": "13800677001662881425"
-        },
-        {
-          "file": "libs/interfaces/README.md",
-          "hash": "7612937276420839100"
-        },
-        {
-          "file": "libs/interfaces/jest.config.js",
-          "hash": "9480901815481326905"
-        },
-        {
-          "file": "libs/interfaces/project.json",
-          "hash": "5422461272909433544"
-        },
-        {
-          "file": "libs/interfaces/src/index.ts",
-          "hash": "7701800710013457074"
-        },
-        {
-          "file": "libs/interfaces/src/lib/auth.interface.ts",
-          "hash": "7682773888492719031"
-        },
-        {
-          "file": "libs/interfaces/src/lib/course.interface.ts",
-          "hash": "11070276360534377191"
-        },
-        {
-          "file": "libs/interfaces/src/lib/events.interface.ts",
-          "hash": "2044114607521964470"
-        },
-        {
-          "file": "libs/interfaces/src/lib/user.interface.ts",
-          "hash": "14398734641839425268"
-        },
-        {
-          "file": "libs/interfaces/tsconfig.json",
-          "hash": "2840670722752396445"
-        },
-        {
-          "file": "libs/interfaces/tsconfig.lib.json",
-          "hash": "4317883841449473599"
-        },
-        {
-          "file": "libs/interfaces/tsconfig.spec.json",
-          "hash": "9890306705623532975"
-        }
-      ],
-      "school-e2e": [
-        {
-          "file": "apps/school-e2e/.eslintrc.json",
-          "hash": "13800677001662881425"
-        },
-        {
-          "file": "apps/school-e2e/jest.config.ts",
-          "hash": "7232971697796934708"
-        },
-        {
-          "file": "apps/school-e2e/project.json",
-          "hash": "3403734598378599677"
-        },
-        {
-          "file": "apps/school-e2e/src/school/school.spec.ts",
-          "hash": "110394728024017389",
-          "deps": [
-            "npm:axios"
-          ]
-        },
-        {
-          "file": "apps/school-e2e/src/support/global-setup.ts",
-          "hash": "2568409276037275290"
-        },
-        {
-          "file": "apps/school-e2e/src/support/global-teardown.ts",
-          "hash": "5275447082211835490"
-        },
-        {
-          "file": "apps/school-e2e/src/support/test-setup.ts",
-          "hash": "10984585515912236441",
-          "deps": [
-            "npm:axios"
-          ]
-        },
-        {
-          "file": "apps/school-e2e/tsconfig.json",
-          "hash": "15443990093475294480"
-        },
-        {
-          "file": "apps/school-e2e/tsconfig.spec.json",
           "hash": "14954872453723519891"
         }
       ],
@@ -710,162 +807,6 @@
           ]
         }
       ],
-      "api": [
-        {
-          "file": "apps/api/.eslintrc.json",
-          "hash": "13800677001662881425"
-        },
-        {
-          "file": "apps/api/jest.config.js",
-          "hash": "13170075833861854950"
-        },
-        {
-          "file": "apps/api/jest.config.ts",
-          "hash": "9483968714649439783"
-        },
-        {
-          "file": "apps/api/project.json",
-          "hash": "9607722253842258280"
-        },
-        {
-          "file": "apps/api/src/app/.gitkeep",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "apps/api/src/app/app.module.ts",
-          "hash": "3013154188034291349",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/config",
-            "npm:@nestjs/jwt",
-            "npm:@nestjs/passport",
-            "npm:@nestjs/schedule",
-            "npm:nestjs-rmq"
-          ]
-        },
-        {
-          "file": "apps/api/src/app/configs/jwt.config.ts",
-          "hash": "10162084427603343712",
-          "deps": [
-            "npm:@nestjs/config",
-            "npm:@nestjs/jwt"
-          ]
-        },
-        {
-          "file": "apps/api/src/app/configs/rmq.config.ts",
-          "hash": "16843795282027826086",
-          "deps": [
-            "npm:@nestjs/config",
-            "npm:nestjs-rmq"
-          ]
-        },
-        {
-          "file": "apps/api/src/app/controllers/auth.controller.ts",
-          "hash": "16371537826522870599",
-          "deps": [
-            "npm:@nestjs/common",
-            "contracts",
-            "npm:nestjs-rmq"
-          ]
-        },
-        {
-          "file": "apps/api/src/app/controllers/user.controller.ts",
-          "hash": "12906124569478991408",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/schedule"
-          ]
-        },
-        {
-          "file": "apps/api/src/app/dtos/login.dto.ts",
-          "hash": "6418013132045074708",
-          "deps": [
-            "npm:class-validator"
-          ]
-        },
-        {
-          "file": "apps/api/src/app/dtos/register.dto.ts",
-          "hash": "2419776801036586877",
-          "deps": [
-            "npm:class-validator"
-          ]
-        },
-        {
-          "file": "apps/api/src/app/guards/jwt.guard.ts",
-          "hash": "17091976237514033842",
-          "deps": [
-            "npm:@nestjs/passport"
-          ]
-        },
-        {
-          "file": "apps/api/src/app/guards/user.decorator.ts",
-          "hash": "451517555991797650",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/api/src/app/strategies/jwt.straragy.ts",
-          "hash": "18409334040977716927",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/config",
-            "npm:@nestjs/passport",
-            "interfaces",
-            "npm:passport-jwt"
-          ]
-        },
-        {
-          "file": "apps/api/src/app/strategies/jwt.strategy.ts",
-          "hash": "9937761947575908385",
-          "deps": [
-            "npm:@nestjs/config",
-            "npm:@nestjs/passport",
-            "npm:passport-jwt",
-            "npm:@school/interfaces"
-          ]
-        },
-        {
-          "file": "apps/api/src/assets/.gitkeep",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "apps/api/src/environments/environment.prod.ts",
-          "hash": "10220522844224226756"
-        },
-        {
-          "file": "apps/api/src/environments/environment.ts",
-          "hash": "1135292433917692033"
-        },
-        {
-          "file": "apps/api/src/main.ts",
-          "hash": "12670976465931673311",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/core"
-          ]
-        },
-        {
-          "file": "apps/api/tsconfig.app.json",
-          "hash": "5230856553400414191"
-        },
-        {
-          "file": "apps/api/tsconfig.json",
-          "hash": "9214820933160915425"
-        },
-        {
-          "file": "apps/api/tsconfig.spec.json",
-          "hash": "9890306705623532975"
-        },
-        {
-          "file": "apps/api/webpack.config.js",
-          "hash": "10830236645376184640",
-          "deps": [
-            "npm:@nx/webpack",
-            "npm:path"
-          ]
-        }
-      ],
       "account-e2e": [
         {
           "file": "apps/account-e2e/.eslintrc.json",
@@ -910,120 +851,179 @@
           "hash": "14954872453723519891"
         }
       ],
-      "contracts": [
+      "school": [
         {
-          "file": "libs/contracts/.eslintrc.json",
-          "hash": "7627749229115838397"
+          "file": "apps/school/.eslintrc.json",
+          "hash": "13800677001662881425"
         },
         {
-          "file": "libs/contracts/README.md",
-          "hash": "16642029964070883586"
+          "file": "apps/school/jest.config.ts",
+          "hash": "5936075037660829252"
         },
         {
-          "file": "libs/contracts/jest.config.js",
-          "hash": "17179070940407332397"
+          "file": "apps/school/project.json",
+          "hash": "16429376047665495179"
         },
         {
-          "file": "libs/contracts/project.json",
-          "hash": "125004663171732689"
-        },
-        {
-          "file": "libs/contracts/src/index.ts",
-          "hash": "1857298066431825392"
-        },
-        {
-          "file": "libs/contracts/src/lib/account/account.buy-course.ts",
-          "hash": "18419819847555204578",
+          "file": "apps/school/src/app/app.controller.spec.ts",
+          "hash": "9499997688052526633",
           "deps": [
-            "npm:class-validator"
+            "npm:@nestjs/testing"
           ]
         },
         {
-          "file": "libs/contracts/src/lib/account/account.change-profile.ts",
-          "hash": "15803481604534168063",
+          "file": "apps/school/src/app/app.controller.ts",
+          "hash": "9005150069945785676",
           "deps": [
-            "interfaces",
-            "npm:class-validator"
+            "npm:@nestjs/common"
           ]
         },
         {
-          "file": "libs/contracts/src/lib/account/account.changed-course.ts",
-          "hash": "2615895400555222099",
+          "file": "apps/school/src/app/app.module.ts",
+          "hash": "3163250445227373966",
           "deps": [
-            "interfaces",
-            "npm:class-validator"
+            "npm:@nestjs/common"
           ]
         },
         {
-          "file": "libs/contracts/src/lib/account/account.check-payment.ts",
-          "hash": "7639137433259134668",
+          "file": "apps/school/src/app/app.service.spec.ts",
+          "hash": "8587461140686713758",
           "deps": [
-            "npm:class-validator"
+            "npm:@nestjs/testing"
           ]
         },
         {
-          "file": "libs/contracts/src/lib/account/account.login.ts",
-          "hash": "1373025711827277229",
+          "file": "apps/school/src/app/app.service.ts",
+          "hash": "9967902337593410053",
           "deps": [
-            "npm:class-validator"
+            "npm:@nestjs/common"
           ]
         },
         {
-          "file": "libs/contracts/src/lib/account/account.register.ts",
-          "hash": "15070759877660179023",
+          "file": "apps/school/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/school/src/main.ts",
+          "hash": "11205222914964382693",
           "deps": [
-            "npm:class-validator"
+            "npm:@nestjs/common",
+            "npm:@nestjs/core"
           ]
         },
         {
-          "file": "libs/contracts/src/lib/account/account.user-courses.ts",
-          "hash": "9165068370222910248",
-          "deps": [
-            "interfaces",
-            "npm:class-validator"
-          ]
+          "file": "apps/school/tsconfig.app.json",
+          "hash": "3171572500325445971"
         },
         {
-          "file": "libs/contracts/src/lib/account/account.user-info.ts",
-          "hash": "11996174033549399402",
-          "deps": [
-            "interfaces",
-            "npm:class-validator"
-          ]
+          "file": "apps/school/tsconfig.json",
+          "hash": "3490524966360018312"
         },
         {
-          "file": "libs/contracts/src/lib/course/course.get-course.ts",
-          "hash": "14576637065549834113",
-          "deps": [
-            "interfaces",
-            "npm:class-validator"
-          ]
+          "file": "apps/school/tsconfig.spec.json",
+          "hash": "11550347367511341917"
         },
         {
-          "file": "libs/contracts/src/lib/payment/payment.check.ts",
-          "hash": "16101139364641519612",
+          "file": "apps/school/webpack.config.js",
+          "hash": "2841108536440257577",
           "deps": [
-            "npm:class-validator"
+            "npm:@nx/webpack",
+            "npm:path"
           ]
+        }
+      ],
+      "interfaces": [
+        {
+          "file": "libs/interfaces/.eslintrc.json",
+          "hash": "13800677001662881425"
         },
         {
-          "file": "libs/contracts/src/lib/payment/payment.generate-link.ts",
-          "hash": "3842706260288535252",
-          "deps": [
-            "npm:class-validator"
-          ]
+          "file": "libs/interfaces/README.md",
+          "hash": "7612937276420839100"
         },
         {
-          "file": "libs/contracts/tsconfig.json",
+          "file": "libs/interfaces/jest.config.js",
+          "hash": "9480901815481326905"
+        },
+        {
+          "file": "libs/interfaces/project.json",
+          "hash": "5422461272909433544"
+        },
+        {
+          "file": "libs/interfaces/src/index.ts",
+          "hash": "7701800710013457074"
+        },
+        {
+          "file": "libs/interfaces/src/lib/auth.interface.ts",
+          "hash": "7682773888492719031"
+        },
+        {
+          "file": "libs/interfaces/src/lib/course.interface.ts",
+          "hash": "11070276360534377191"
+        },
+        {
+          "file": "libs/interfaces/src/lib/events.interface.ts",
+          "hash": "2044114607521964470"
+        },
+        {
+          "file": "libs/interfaces/src/lib/user.interface.ts",
+          "hash": "14398734641839425268"
+        },
+        {
+          "file": "libs/interfaces/tsconfig.json",
           "hash": "2840670722752396445"
         },
         {
-          "file": "libs/contracts/tsconfig.lib.json",
+          "file": "libs/interfaces/tsconfig.lib.json",
           "hash": "4317883841449473599"
         },
         {
-          "file": "libs/contracts/tsconfig.spec.json",
+          "file": "libs/interfaces/tsconfig.spec.json",
           "hash": "9890306705623532975"
+        }
+      ],
+      "school-e2e": [
+        {
+          "file": "apps/school-e2e/.eslintrc.json",
+          "hash": "13800677001662881425"
+        },
+        {
+          "file": "apps/school-e2e/jest.config.ts",
+          "hash": "7232971697796934708"
+        },
+        {
+          "file": "apps/school-e2e/project.json",
+          "hash": "3403734598378599677"
+        },
+        {
+          "file": "apps/school-e2e/src/school/school.spec.ts",
+          "hash": "110394728024017389",
+          "deps": [
+            "npm:axios"
+          ]
+        },
+        {
+          "file": "apps/school-e2e/src/support/global-setup.ts",
+          "hash": "2568409276037275290"
+        },
+        {
+          "file": "apps/school-e2e/src/support/global-teardown.ts",
+          "hash": "5275447082211835490"
+        },
+        {
+          "file": "apps/school-e2e/src/support/test-setup.ts",
+          "hash": "10984585515912236441",
+          "deps": [
+            "npm:axios"
+          ]
+        },
+        {
+          "file": "apps/school-e2e/tsconfig.json",
+          "hash": "15443990093475294480"
+        },
+        {
+          "file": "apps/school-e2e/tsconfig.spec.json",
+          "hash": "14954872453723519891"
         }
       ]
     }
